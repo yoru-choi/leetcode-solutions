@@ -1,6 +1,5 @@
-#Algorithm_LeetCode
+#leetcode-solutions
 
-릿코드는 git 연동이 됩니당.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
