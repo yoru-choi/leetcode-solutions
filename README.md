@@ -37,11 +37,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ten-choi/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ten-choi/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 | Problem Name | Difficulty |
